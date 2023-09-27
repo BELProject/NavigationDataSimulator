@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.main-frame {
+    margin: 10px 100px 10px 100px;
+}
